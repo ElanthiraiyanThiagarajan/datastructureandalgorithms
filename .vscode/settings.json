@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/elan/Library/Mobile Documents/com~apple~CloudDocs/algs4.jar",
+        "/Users/elan/Library/Mobile Documents/com~apple~CloudDocs/stdlib.jar"
+    ]
+}
