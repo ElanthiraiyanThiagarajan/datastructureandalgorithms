@@ -1,4 +1,5 @@
-package algorithms;
+package dstemplateprograms.algorithms;
+
 
 public class SortingAlgorithms {
 
